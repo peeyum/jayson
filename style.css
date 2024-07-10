@@ -109,7 +109,7 @@
   width: 100%;
   z-index: 0;
   pointer-events: none;
-  background: url(https://kneeyo.bio/assets/img/dot.png);
+  background: url(assets/img/dot.png);
   background-size: 3px;
   opacity: 1;
   z-index: 1;
@@ -213,7 +213,7 @@
   width: 100%;
   z-index: 1;
   pointer-events: none;
-  background: url(https://kneeyo.bio/assets/img/dot.png);
+  background: url(assets/img/dot.png);
   background-size: 4px;
 }
 
